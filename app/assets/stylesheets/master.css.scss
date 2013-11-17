@@ -1,0 +1,55 @@
+
+body {
+	  background: url('bw queens bridge brighter.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+
+.custom-font {
+	color: white;
+}
+
+.cool-font-big {
+font-family: Helvetica Neue Light, Helvetica Neue, Helvetica, sans-serif;
+font-size: 64px;
+font-weight: 100;
+}
+
+.cool-font-small {
+font-family: Helvetica Neue Light, Helvetica Neue, Helvetica, sans-serif;
+font-size: 34px;
+font-weight: 200;
+}
+
+.uberit-font {
+    font-family: sans-serif;
+    color: white;
+	font-size: 34px;
+	font-weight: 200;
+}
+
+.label {
+    color: #FFFFFF;
+    font-size: 34px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    line-height: 23px;
+    margin-bottom: 20px;
+    padding:  0%;
+    text-transform: uppercase;
+}
+
+.label-small {
+   
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    line-height: 23px;
+    margin-bottom: 20px;
+    padding: 0 2px;
+    text-transform: uppercase;
+}
